@@ -1,0 +1,19 @@
+.todoItem {
+    margin: 10px;
+    cursor: pointer;
+    color:
+}
+
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
+
+#root {
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+    height: 100%;
+}
